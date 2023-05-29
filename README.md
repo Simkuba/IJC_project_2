@@ -9,3 +9,5 @@ can be run as
 
 ## Evaluation:
 14/15
+
+#### The project is for inspiration only, copying the code is strongly discouraged.
