@@ -1,4 +1,4 @@
-# Second school project in the subject IJC
+# Second school project in the subject IJC (C programming language)
 
 ## Implements:
 + program tail (similar behaviour to POSIX tail), 
